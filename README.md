@@ -46,29 +46,10 @@ And This Tool Created By Team AX
 - [x] Bypass (Cloudflare, OVH, NFO)  
 
 
-# Setup
-```
-CentOS:
-sudo yum update
-sudo yum install epel-release
-sudo yum install nodejs
-sudo yum install git
-npm install axios
-git clone https://github.com/TeamAX03/AX-Stresser.git
-cd AX-Stresser
-node AX.js URL TIME REQ_PER_SEC THREADS LICENCE_KEY
+# Setup :
 
-Debain, Ubuntu:
-sudo apt update
-sudo apt install git
-sudo apt install nodejs
-sudo apt install npm
-npm install axios
-git clone https://github.com/TeamAX03/AX-Stresser.git
-cd AX-Stresser
-node AX.js URL TIME REQ_PER_SEC THREADS LICENCE_KEY
-
-How to use: 
+How to use:
+```sh 
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
@@ -77,8 +58,32 @@ npm install axios
 git clone https://github.com/TeamAX03/AX-Stresser.git
 cd AX-Stresser
 node AX.js URL TIME REQ_PER_SEC THREADS LICENCE_KEY
-
 ```
+
+Debain, Ubuntu:
+```sh
+sudo apt update
+sudo apt install git
+sudo apt install nodejs
+sudo apt install npm
+npm install axios
+git clone https://github.com/TeamAX03/AX-Stresser.git
+cd AX-Stresser
+node AX.js URL TIME REQ_PER_SEC THREADS LICENCE_KEY
+```
+CentOS:
+```sh
+sudo yum update
+sudo yum install epel-release
+sudo yum install nodejs
+sudo yum install git
+npm install axios
+git clone https://github.com/TeamAX03/AX-Stresser.git
+cd AX-Stresser
+node AX.js URL TIME REQ_PER_SEC THREADS LICENCE_KEY
+```
+
+
 
 # TOS:
 ```sh

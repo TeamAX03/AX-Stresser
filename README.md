@@ -51,7 +51,7 @@ And This Tool Created By Team AX
 - Using vps with high speed will be stronger
 </p>
 
-How to use:
+GCP, RDP, VPS, Shell:
 ```sh
 pkg install nodejs
 npm install axios

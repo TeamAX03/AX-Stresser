@@ -47,7 +47,7 @@ And This Tool Created By Team AX
 
 
 # Setup
-```sh
+```
 CentOS:
 sudo yum update
 sudo yum install epel-release

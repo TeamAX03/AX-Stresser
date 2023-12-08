@@ -47,12 +47,12 @@ And This Tool Created By Team AX
 
 
 # Setup :
-
-How to use:
-```sh 
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
+</p>
 
+How to use:
+```sh
 pkg install nodejs
 npm install axios
 git clone https://github.com/TeamAX03/AX-Stresser.git
